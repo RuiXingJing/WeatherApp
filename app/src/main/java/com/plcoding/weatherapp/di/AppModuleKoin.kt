@@ -42,3 +42,4 @@ val viewModels = module {
         WeatherViewModel(get(), get())
     }
 }
+
